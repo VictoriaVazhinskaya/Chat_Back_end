@@ -1,0 +1,1 @@
+The history of messages will be saved in "D:\vicChatHistory.xml".
